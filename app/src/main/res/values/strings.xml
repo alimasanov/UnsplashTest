@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_info">Info</string>
+    <string name="title_photo">Photo</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="title_activity_fullscreen_photo">FullscreenPhoto</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fa_download">\uf019</string>
+    <string name="fa_location">\uf124</string>
+    <string name="fa_likes">\uf004</string>
+    <string name="fa_created_at">\uf0fe</string>
+    <string name="fa_updated_at">\uf044</string>
+    <string name="fa_username">\uf007</string>
+    <string name="fa_title">Description:</string>
+    <string name="fa_width">W</string>
+    <string name="fa_x">x</string>
+    <string name="fa_height">H</string>
+    <string name="todo">TODO</string>
+</resources>
