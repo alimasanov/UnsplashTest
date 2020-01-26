@@ -9,5 +9,5 @@ interface NetworkEndpoints {
     @GET("/photos/random")
     fun getRandomPhotos(
         @Query("count") count: Int
-    ): Call<List<Photo>>
+    ): Call<ArrayList<Photo>>
 }

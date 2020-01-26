@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.alimasanov.unsplash.R
 import com.alimasanov.unsplash.adapters.UnsplashAdapter
+import com.alimasanov.unsplash.model.pojo.Photo
 import com.alimasanov.unsplash.viewModel.PhotoFragmentViewModel
 
 class PhotoFragment : Fragment() {
