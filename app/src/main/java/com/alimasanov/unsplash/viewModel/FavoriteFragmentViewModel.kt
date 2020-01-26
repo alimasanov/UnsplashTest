@@ -12,8 +12,4 @@ class FavoriteFragmentViewModel: ViewModel() {
             .observeOn(AndroidSchedulers.mainThread)
             .subscribe { t -> value = t }
     }
-
-    private fun dbQuery(){
-
-    }
 }
