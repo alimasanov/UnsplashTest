@@ -20,7 +20,6 @@ class App: Application() {
                     instance,
                     UnsplashDatabase::class.java,
                     "db")
-                .allowMainThreadQueries()
                 .build()
     }
 }
